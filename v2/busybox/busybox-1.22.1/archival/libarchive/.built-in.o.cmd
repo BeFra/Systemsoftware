@@ -1,1 +1,0 @@
-cmd_archival/libarchive/built-in.o :=  rm -f archival/libarchive/built-in.o; /group/labworks/toolchain/buildroot.git/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabihf-ar rcs archival/libarchive/built-in.o

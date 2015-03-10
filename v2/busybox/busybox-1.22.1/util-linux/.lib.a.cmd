@@ -1,1 +1,0 @@
-cmd_util-linux/lib.a := rm -f util-linux/lib.a; /group/labworks/toolchain/buildroot.git/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabihf-ar  rcs util-linux/lib.a util-linux/dmesg.o util-linux/fstrim.o util-linux/mdev.o util-linux/mount.o util-linux/umount.o

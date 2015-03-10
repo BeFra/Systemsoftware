@@ -1,1 +1,0 @@
-cmd_networking/lib.a := rm -f networking/lib.a; /group/labworks/toolchain/buildroot.git/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabihf-ar  rcs networking/lib.a networking/httpd.o networking/ifconfig.o networking/interface.o networking/ping.o networking/route.o networking/telnetd.o

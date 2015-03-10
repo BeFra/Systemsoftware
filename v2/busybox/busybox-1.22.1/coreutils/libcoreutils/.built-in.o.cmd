@@ -1,1 +1,0 @@
-cmd_coreutils/libcoreutils/built-in.o :=  rm -f coreutils/libcoreutils/built-in.o; /group/labworks/toolchain/buildroot.git/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabihf-ar rcs coreutils/libcoreutils/built-in.o

@@ -1,1 +1,0 @@
-cmd_procps/lib.a := rm -f procps/lib.a; /group/labworks/toolchain/buildroot.git/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabihf-ar  rcs procps/lib.a procps/free.o procps/kill.o procps/ps.o procps/top.o procps/uptime.o
